@@ -1,5 +1,8 @@
 {
   "names": {
     "bu5hm4nn": "bfc058c9abb250a2f4f0f240210ae750221b614f19b9872ea8cdf59a69d68914"
+  },
+  "relays": {
+    "bfc058c9abb250a2f4f0f240210ae750221b614f19b9872ea8cdf59a69d68914": [ "wss://relay.damus.io", "wss://brb.io", "wss://relay.snort.social" ]
   }
 }
